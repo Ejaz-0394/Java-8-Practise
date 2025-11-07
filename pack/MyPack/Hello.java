@@ -1,4 +1,4 @@
-package pack.MyPack;
+package pack.mypack;
 
 import org.w3c.dom.ls.LSOutput;
 
